@@ -1,6 +1,4 @@
-![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
-
-# Tailwind Nextjs Starter Blog
+# Tailwind Nextjs Starter
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/network/)
@@ -147,7 +145,7 @@ I wanted it to be nearly as feature-rich as popular blogging templates like [bea
 1. Clone the repo
 
 ```bash
-npx degit 'timlrx/tailwind-nextjs-starter-blog'
+  yarn install
 ```
 
 2. Personalize `siteMetadata.js` (site related information)
@@ -292,4 +290,4 @@ Using the template? Support this effort by giving a star on GitHub, sharing your
 
 ## Licence
 
-[MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/main/LICENSE) © [Timothy Lin](https://www.timlrx.com)
+[MIT](https://github.com/dduythien/blob/main/LICENSE) © [dduythien.it](https://htsoftware.com.vn)
